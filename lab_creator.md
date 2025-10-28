@@ -2,9 +2,9 @@
  Prompt Title: Lab Creator
  Description: Makes labs
  Version Number:  
- Created By:  
- Date:  
- Inputs:  
+ Created By: Chad Feeser
+ Date: October 2025
+ Inputs:  outline of the lab content
  Output Expectations:  
  Prompt:  
  Change Log:
